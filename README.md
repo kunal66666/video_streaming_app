@@ -7,7 +7,7 @@ In this project, we delve into the world of microservices using the cutting-edge
 Key Features and Objectives:
 Foundations of Microservices
 
-Learn the core principles of microservice architecture, including modular design, independent deployment, and scalability.
+Using core principles of microservice architecture, including modular design, independent deployment, and scalability.
 Service Registry
 
 Implement a service registry (Eureka) to manage and discover services dynamically.
