@@ -20,4 +20,5 @@ Set up an API Gateway for routing requests, load balancing, and enforcing securi
 Distributed Tracing System
 
 Use tools like Zipkin to trace and monitor interactions across microservices for debugging and performance optimization.
-This project not only provides hands-on experience with essential microservice components but also prepares you to design and implement enterprise-grade applications efficiently.
+This project not only provides hands-on experience with essential microservice components but also prepares you to design and implement enterprise-grade applications efficiently.![Screenshot (477)](https://github.com/user-attachments/assets/9e82d222-bae0-4de8-baeb-cda42c7e8cc7)
+
